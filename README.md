@@ -7,7 +7,7 @@ Streamy is a web application built using React.js that allows users to watch and
 ## 💻 Demo
 
 A live demo of the application is available at:\
-➡️ [streamydev.vercel.app](https://streamydev.vercel.app/)
+➡️ [https://streamy-video-streaming-platform-hritik-6918.vercel.app/](https://streamy-video-streaming-platform-hritik-6918.vercel.app/)
 
 ## ⚙️ Tech Stack
 
